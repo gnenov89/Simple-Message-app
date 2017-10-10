@@ -1,0 +1,22 @@
+{
+  "name": "simple-message-app",
+  "version": "1.0.0",
+  "description": "Messaging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testy-testy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnenov89/Simple-Message-app.git"
+  },
+  "keywords": [
+    "GG"
+  ],
+  "author": "gnenov89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnenov89/Simple-Message-app/issues"
+  },
+  "homepage": "https://github.com/gnenov89/Simple-Message-app#readme"
+}
